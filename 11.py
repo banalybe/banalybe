@@ -1,4 +1,3 @@
-
 largest = None
 smallest = None
 while True:
